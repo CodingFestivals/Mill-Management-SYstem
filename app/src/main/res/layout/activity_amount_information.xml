@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".ActivityAmountInformation">
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tv_totalTk_aAmountInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="All Amount You Give"
+        android:layout_margin="10dp"
+        android:background="@drawable/fragment_background"
+        android:padding="20dp"
+        android:textSize="30sp"
+       />
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/tv_totalTk_aAmountInfo"
+        android:layout_margin="10dp"
+        android:background="@drawable/fragment_background"
+        android:id="@+id/id_rv_aAmountInformation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v7.widget.RecyclerView>
+
+
+</RelativeLayout>

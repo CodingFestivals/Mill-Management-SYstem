@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419483969832",
+    "firebase_url": "https://millmanagementsystem-26a4a.firebaseio.com",
+    "project_id": "millmanagementsystem-26a4a",
+    "storage_bucket": "millmanagementsystem-26a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419483969832:android:29ebfe7bf044f95f",
+        "android_client_info": {
+          "package_name": "com.example.millmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419483969832-dviltduv8ho29njk0h6uomrlig1mrvl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADp2l6J5v6AuDikEUdxYu_ckiCS8Ta7oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419483969832-dviltduv8ho29njk0h6uomrlig1mrvl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

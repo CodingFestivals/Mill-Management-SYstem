@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MillManagementSystem</string>
+    <string name="title">Confirmation!</string>
+    <string name="message">This is new Mess?</string>
+    <string-array name="imagename">
+        <item>Select User</item>
+        <item>Admin</item>
+        <item>Manager</item>
+        <item>User</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
